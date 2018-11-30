@@ -9,4 +9,4 @@ exports.run = (client, message) => {
 module.exports.help = {
 	name: "count",
 	alias: "COUNT"
-}
+} 
