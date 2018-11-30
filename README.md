@@ -1,2 +1,2 @@
-# Liscord
-Bot using heroku, 24/7!
+# X-READY
+a discord bot for [🎥]Ban🌹#3134
